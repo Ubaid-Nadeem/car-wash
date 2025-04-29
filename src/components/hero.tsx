@@ -2,7 +2,7 @@ import { CarouselPlugin } from "./carousel";
 
 export default function Hero() {
   return (
-    <div className="w-full bg-[#181818] flex px-0 lg:px-15 py-10 flex-col md:flex-row">
+    <div className="w-full bg-[#181818] flex px-0 lg:px-15 py-25 flex-col md:flex-row">
       <div className="w-full section1 flex-1">
         <span className="text-[#008dc7] text-sm flex tracking-widest">
           <svg
@@ -25,11 +25,11 @@ export default function Hero() {
 
           <span>MOBILE AUTO DETAILING</span>
         </span>
-        <div className="md:px-10 px-5">
+        <div className=" md:px-10 px-7">
           <h1 className="text-[45px] leading-12 text-white md:text-[55px]  lg:text-[65px] font-bold lg:leading-17  md:leading-14 pt-5">
             Premier Car Detailing Service From $150
           </h1>
-          <p className="text-white font-semibold py-5 text-[14px]">
+          <p className="text-white md:font-semibold py-5 text-[14px]">
             Experienced & professional mobile auto detailing services for
             automobiles, SUVS, Trucks, and Recreational Vehicles (RVs)
           </p>
