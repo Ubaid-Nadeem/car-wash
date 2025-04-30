@@ -1,6 +1,7 @@
 import About from "@/components/about";
 import Hero from "@/components/hero";
 import Navbar from "@/components/navbar";
+import Reasons from "@/components/reasons";
 import Services from "@/components/services";
 import Image from "next/image";
 
@@ -11,6 +12,7 @@ export default function Home() {
       <Hero />
       <Services />
       <About />
+      <Reasons/>
     </>
   );
 }
