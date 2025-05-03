@@ -209,12 +209,17 @@
   top: 15px;
   left: 5px;
 }
- .mobile_nav_div{
+.mobile_nav_div {
   transition: transform ease-in 1s;
   /* transform: translateY(100px); */
 }
 
-.carousel_box_shadow{
+.carousel_box_shadow {
   box-shadow: -20px 30px #555555;
-
+}
+.progress_bg {
+  background-image: url("https://car-mc.com/wp-content/uploads/2023/09/10-cheap-ways-to-detail-your-car-like-a-pro-6103daf03f157.jpg");
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgb(0, 0, 0)),url("https://car-mc.com/wp-content/uploads/2023/09/10-cheap-ways-to-detail-your-car-like-a-pro-6103daf03f157.jpg");
+  background-size: cover;
+  background-position: center;
 }

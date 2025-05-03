@@ -39,8 +39,8 @@ export default function Services() {
             className={`bg-[url(https://car-mc.com/wp-content/uploads/2023/09/10-cheap-ways-to-detail-your-car-like-a-pro-6103daf03f157.jpg)] bg-cover bg-center w-full h-52 md:h-full md:w-[80%]  transition duration-300 hover:scale-110`}
           ></div>
           <div className="flex flex-col justify-between md:p-6 leading-normal w-full px-6 py-10">
-            <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
-              Interior & Exterior Detailing
+            <h5 className="mb-2 text-xl font-bold tracking-tight text-gray-900 dark:text-white">
+              Interior Detailing
             </h5>
             <p className="mb-3 font-normal text-gray-700 dark:text-gray-400">
               Lorem ipsum dolor sit amet consectetur adipiscing elit dolor
@@ -55,7 +55,7 @@ export default function Services() {
             className={` bg-[url(https://img.freepik.com/free-photo/professional-washer-blue-uniform-washing-luxury-car-with-water-gun-open-air-car-wash_496169-333.jpg?semt=ais_hybrid&w=740)] bg-cover bg-center w-full h-52 md:h-full md:w-[80%] transition duration-300 hover:scale-110`}
           ></div>
           <div className="flex flex-col justify-between md:p-6 px-6 py-10 leading-normal w-full">
-            <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
+            <h5 className="mb-2 text-xl font-bold tracking-tight text-gray-900 dark:text-white">
               Interior & Exterior Detailing
             </h5>
             <p className="mb-3 font-normal text-gray-700 dark:text-gray-400">
@@ -73,8 +73,8 @@ export default function Services() {
             className={`bg-[url(https://car-wrap.es/wp-content/uploads/2023/01/Detailing-car.jpg)] bg-cover bg-center w-full h-52 md:h-full md:w-[80%] transition duration-300 hover:scale-110`}
           ></div>
           <div className="flex flex-col justify-between md:p-6 leading-normal w-full px-6 py-10">
-            <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
-              Interior & Exterior Detailing
+            <h5 className="mb-2 text-xl font-bold tracking-tight text-gray-900 dark:text-white">
+              Paint Correction
             </h5>
             <p className="mb-3 font-normal text-gray-700 dark:text-gray-400">
               Lorem ipsum dolor sit amet consectetur adipiscing elit dolor
@@ -84,12 +84,12 @@ export default function Services() {
             </button>
           </div>
         </div>
-        <div className="overflow-hidden w-full flex-1 flex flex-col items-center bg-white shadow-sm md:flex-row md:max-w-xl hover:bg-gray-100 ">
+        {/* <div className="overflow-hidden w-full flex-1 flex flex-col items-center bg-white shadow-sm md:flex-row md:max-w-xl hover:bg-gray-100 ">
           <div
             className={`bg-[url(https://www.autotrainingcentre.com/wp-content/uploads/2018/07/professional-automotive-detailing.jpg)] bg-cover bg-center w-full h-52 md:h-full md:w-[80%] transition duration-300 hover:scale-110`}
           ></div>
           <div className="flex flex-col justify-between md:p-6 px-6 py-10 leading-normal w-full">
-            <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
+            <h5 className="mb-2 text-xl font-bold tracking-tight text-gray-900 dark:text-white">
               Interior & Exterior Detailing
             </h5>
             <p className="mb-3 font-normal text-gray-700 dark:text-gray-400">
@@ -99,7 +99,7 @@ export default function Services() {
               Learn More
             </button>
           </div>
-        </div>
+        </div> */}
       </div>
     </div>
   );
