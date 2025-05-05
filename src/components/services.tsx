@@ -84,22 +84,7 @@ export default function Services() {
             </button>
           </div>
         </div>
-        {/* <div className="overflow-hidden w-full flex-1 flex flex-col items-center bg-white shadow-sm md:flex-row md:max-w-xl hover:bg-gray-100 ">
-          <div
-            className={`bg-[url(https://www.autotrainingcentre.com/wp-content/uploads/2018/07/professional-automotive-detailing.jpg)] bg-cover bg-center w-full h-52 md:h-full md:w-[80%] transition duration-300 hover:scale-110`}
-          ></div>
-          <div className="flex flex-col justify-between md:p-6 px-6 py-10 leading-normal w-full">
-            <h5 className="mb-2 text-xl font-bold tracking-tight text-gray-900 dark:text-white">
-              Interior & Exterior Detailing
-            </h5>
-            <p className="mb-3 font-normal text-gray-700 dark:text-gray-400">
-              Lorem ipsum dolor sit amet consectetur adipiscing elit dolor
-            </p>
-            <button className="border border-[#008dc7] text-[#008dc7] p-2 w-[150px] mt-2 text-[14px] cursor-pointer">
-              Learn More
-            </button>
-          </div>
-        </div> */}
+      
       </div>
     </div>
   );

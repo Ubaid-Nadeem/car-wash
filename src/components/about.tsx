@@ -40,7 +40,7 @@ export default function About() {
           </button>
         </div>
       </div>
-      <div className="relative flex-1 md:mt-10 py-8 md:p-0 px-2">
+      <div className="relative flex-1 md:mt-10 py-8 md:p-0 px-2 m-auto">
         <img
         className="md:w-[500px] w-[320px]"
           src="https://www.familyhandyman.com/wp-content/uploads/2021/06/vacuuming-car-seat-GettyImages-481395168.jpg"

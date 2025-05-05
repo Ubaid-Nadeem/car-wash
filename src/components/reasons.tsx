@@ -45,7 +45,7 @@ export default function Reasons() {
       </h2>
 
       <div className="flex flex-col md:flex-row mb-10 border-b border-gray">
-        <div className="items-center md:items-start md:items-left flex flex-col md:flex-row flex-1 gap-5 py-8">
+        <div className="items-center md:items-start md:items-left flex flex-col md:flex-row flex-1 gap-5 py-5">
           <div>
             <svg
               className="w-10 h-10 text-[#008dc7]"
@@ -75,7 +75,7 @@ export default function Reasons() {
             </p>
           </div>
         </div>
-        <div className="items-center md:items-start md:items-left flex flex-col md:flex-row flex-1 gap-5 py-8">
+        <div className="items-center md:items-start md:items-left flex flex-col md:flex-row flex-1 gap-5 py-5">
           <div>
             <svg
               className="w-10 h-10 text-[#008dc7]"
@@ -105,7 +105,7 @@ export default function Reasons() {
             </p>
           </div>
         </div>
-        <div className="items-center md:items-start md:items-left flex flex-col md:flex-row flex-1 gap-5 py-8">
+        <div className="items-center md:items-start md:items-left flex flex-col md:flex-row flex-1 gap-5 py-5">
           <div>
             <svg
               className="w-10 h-10 text-[#008dc7]"
@@ -137,7 +137,7 @@ export default function Reasons() {
       </div>
 
       <div className="flex flex-col md:flex-row mb-10">
-        <div className="items-center md:items-start md:items-left flex flex-col md:flex-row flex-1 gap-5 py-8">
+        <div className="items-center md:items-start md:items-left flex flex-col md:flex-row flex-1 gap-5 py-5">
           <div>
             <svg
               className="w-10 h-10 text-[#008dc7]"
@@ -167,7 +167,7 @@ export default function Reasons() {
             </p>
           </div>
         </div>
-        <div className="items-center md:items-start md:items-left flex flex-col md:flex-row flex-1 gap-5 py-8">
+        <div className="items-center md:items-start md:items-left flex flex-col md:flex-row flex-1 gap-5 py-5">
           <div>
             <svg
               className="w-10 h-10 text-[#008dc7]"
@@ -197,7 +197,7 @@ export default function Reasons() {
             </p>
           </div>
         </div>
-        <div className="items-center md:items-start md:items-left flex flex-col md:flex-row flex-1 gap-5 py-8">
+        <div className="items-center md:items-start md:items-left flex flex-col md:flex-row flex-1 gap-5 py-5">
           <div>
             <svg
               className="w-10 h-10 text-[#008dc7]"
