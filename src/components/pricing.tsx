@@ -46,34 +46,37 @@ export default function Pricing() {
         facilisis leo nibh in hac.
       </p>
 
-      <div className="flex md:flex-row flex-col mt-10 px-5">
-        <div className="py-15 flex-1 border text-center px-15">
+      <div className="flex md:flex-row flex-col mt-10">
+        <div className="py-15 flex-1 border-1 border-gray-300 text-center md:px-15 px-8">
           <h3 className="font-semibold text-[20px] ">Interior Detail</h3>
           <p className="text-[#7d7d79]  p-1 text-[14px]">
             Inside of Vehicle Only
           </p>
 
-          <h2 className="font-bold text-[36px] pt-8">$159</h2>
+          <h2 className="font-bold text-[36px] pt-5 pb-0">$159</h2>
+          <span className="text-[14px] p-0 font-light">Starting at*</span>
 
           <div className="text-[gray] mt-5">
-            <p className="py-3 border-b">Shampoo Carpet/Seats</p>
-            <p className="py-3 border-b">Dash, Doors, & Interior Trim</p>
-            <p className="py-3 border-b">Interior Windows</p>
-            <p className="py-3 border-b">Buttons, Knobs, & Cup Holders</p>
+            <p className="py-3 border-b ">Shampoo Carpet/Seats</p>
+            <p className="py-3 border-b ">Dash, Doors, & Interior Trim</p>
+            <p className="py-3 border-b ">Interior Windows</p>
+            <p className="py-3 border-b ">Buttons, Knobs, & Cup Holders</p>
             <p className="py-3">Floor Mats</p>
           </div>
           <button className="text-white bg-[#008dc7] mt-5 py-3 px-10 rounded cursor-pointer tracking-widest text-[12px]">
             GET IT NOW
           </button>
         </div>
-        <div className="py-15 flex-1 border text-center  px-15">
+        <div className="py-15 flex-1 border-1 border-gray-300 text-center  md:px-15 px-8">
           <h3 className="font-semibold text-[20px]">
             Interior & Exterior Detail
           </h3>
           <p className="text-[#7d7d79] p-1 text-[14px]">
             Inside and Exterior of Vehicle Only
           </p>
-          <h2 className="font-bold text-[36px] pt-8">$199</h2>
+          <h2 className="font-bold text-[36px] pt-5">$199</h2>
+          <span className="text-[14px] p-0 font-light">Starting at*</span>
+
           <div className="text-[gray] mt-5">
             <p className="py-3 border-b">Complete Interior Package</p>
             <p className="py-3 border-b">Exterior Dressing of Plastics</p>
@@ -85,12 +88,14 @@ export default function Pricing() {
             GET IT NOW
           </button>
         </div>
-        <div className="py-15 flex-1 border text-center  px-15">
+        <div className="py-15 flex-1 border-1 border-gray-300 text-center  md:px-15 px-8">
           <h3 className="font-semibold text-[20px]">Paint Protection</h3>
           <p className="text-[#7d7d79]  p-1 text-[14px]">
             Interior/Exterior and Paint Correction
           </p>
-          <h2 className="font-bold text-[36px] pt-8">$399</h2>
+          <h2 className="font-bold text-[36px] pt-5">$399</h2>
+          <span className="text-[14px] p-0 font-light">Starting at*</span>
+
           <div className="text-[gray] mt-5">
             <p className="py-3 border-b">Complete Interior Package</p>
             <p className="py-3 border-b">Complete Extrior Package</p>
