@@ -44,7 +44,7 @@ export default function Reasons() {
         Six Reasons People Choose Us
       </h2>
 
-      <div className="flex flex-col md:flex-row mb-10 border-b border-gray">
+      <div className="flex flex-col md:flex-row mb-10 border-b border-gray-200">
         <div className="items-center md:items-start md:items-left flex flex-col md:flex-row flex-1 gap-5 py-5">
           <div>
             <svg

@@ -57,10 +57,10 @@ export default function Pricing() {
           <span className="text-[14px] p-0 font-light">Starting at*</span>
 
           <div className="text-[gray] mt-5">
-            <p className="py-3 border-b ">Shampoo Carpet/Seats</p>
-            <p className="py-3 border-b ">Dash, Doors, & Interior Trim</p>
-            <p className="py-3 border-b ">Interior Windows</p>
-            <p className="py-3 border-b ">Buttons, Knobs, & Cup Holders</p>
+            <p className="py-3 border-b border-gray-200">Shampoo Carpet/Seats</p>
+            <p className="py-3 border-b border-gray-200">Dash, Doors, & Interior Trim</p>
+            <p className="py-3 border-b border-gray-200">Interior Windows</p>
+            <p className="py-3 border-b border-gray-200">Buttons, Knobs, & Cup Holders</p>
             <p className="py-3">Floor Mats</p>
           </div>
           <button className="text-white bg-[#008dc7] mt-5 py-3 px-10 rounded cursor-pointer tracking-widest text-[12px]">
@@ -78,10 +78,10 @@ export default function Pricing() {
           <span className="text-[14px] p-0 font-light">Starting at*</span>
 
           <div className="text-[gray] mt-5">
-            <p className="py-3 border-b">Complete Interior Package</p>
-            <p className="py-3 border-b">Exterior Dressing of Plastics</p>
-            <p className="py-3 border-b">Tires Shine</p>
-            <p className="py-3 border-b">Clean All Door Jams</p>
+            <p className="py-3 border-b border-gray-200">Complete Interior Package</p>
+            <p className="py-3 border-b border-gray-200">Exterior Dressing of Plastics</p>
+            <p className="py-3 border-b border-gray-200">Tires Shine</p>
+            <p className="py-3 border-b border-gray-200">Clean All Door Jams</p>
             <p className="py-3">Exterior Hand Wash</p>
           </div>
           <button className="text-white bg-[#008dc7] mt-5 py-3 px-10 rounded cursor-pointer tracking-widest text-[12px]">
@@ -97,9 +97,9 @@ export default function Pricing() {
           <span className="text-[14px] p-0 font-light">Starting at*</span>
 
           <div className="text-[gray] mt-5">
-            <p className="py-3 border-b">Complete Interior Package</p>
-            <p className="py-3 border-b">Complete Extrior Package</p>
-            <p className="py-3 border-b">Paint Correction</p>
+            <p className="py-3 border-b border-gray-200">Complete Interior Package</p>
+            <p className="py-3 border-b border-gray-200">Complete Extrior Package</p>
+            <p className="py-3 border-b border-gray-200">Paint Correction</p>
             {/* <p className="py-3 border-b">Clean All Door Jams</p>
             <p className="py-3">Exterior Hand Wash</p> */}
           </div>
